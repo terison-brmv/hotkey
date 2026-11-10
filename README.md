@@ -92,7 +92,7 @@ Layout fixing is light: about 100 MB of memory and practically no CPU. Voice, gr
 
 ## Private by design
 
-No accounts, no analytics, no ads. What you type and say stays on your PC. HotKey goes online only to download a model you asked for, to check for updates, and to open a feedback form in your browser. Details: [PRIVACY.md](PRIVACY.md).
+No accounts, no analytics, no ads. What you type and say stays on your PC. HotKey goes online only to download a model you asked for, and to check for updates. Details: [PRIVACY.md](PRIVACY.md).
 
 ## Install
 
@@ -104,7 +104,7 @@ Uninstall: **Settings → Apps → HotKey**. You'll be asked whether to keep you
 
 ## Feedback
 
-Found a bug or have an idea? In HotKey open **Settings → About → Complaints and suggestions**: it opens a pre-filled form here, with your HotKey version and PC details (no personal data). Or open an [issue](../../issues/new/choose) directly. Russian or English — both are fine.
+Found a bug or have an idea? Write it right here, in [Issues](../../issues/new/choose) — the **Complaints and suggestions** button in HotKey (Settings → About, Updates or the tray menu) opens this page. Russian or English — both are fine.
 
 ## Author and license
 

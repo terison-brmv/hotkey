@@ -9,14 +9,15 @@ HotKey does not collect or send any personal data about you.
 
 ## When HotKey goes online
 
-Only in three cases, and never with your text:
+Only in two cases, and never with your text:
 
 | What | When | Where |
 |---|---|---|
 | Model download | Only when you press **Download** | Hugging Face. Every file is checked by size or SHA-256 |
 | Update check | Once a day, if **Update automatically** is on (default) | GitHub Releases of this repository. No account, no token, only the version number is compared |
-| Feedback | Only when you press **Open on GitHub** in *Complaints and suggestions* | Your browser opens a pre-filled issue form here. Nothing is sent until you press *Submit* yourself. You see everything that will be sent before that |
 
 Settings live in `%AppData%\HotKey\`, models and logs in `%LocalAppData%\HotKey\`. Logs contain only events like "convert len=6 ru", never the words themselves.
+
+The **Complaints and suggestions** button only opens the [Issues](../../issues/new/choose) page of this repository in your browser; HotKey itself sends nothing.
 
 Questions about privacy: open an [issue](../../issues).

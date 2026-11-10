@@ -30,7 +30,7 @@ body:
     id: hardware
     attributes:
       label: Your PC
-      description: Filled in automatically when you send the report from HotKey (graphics card, processor, memory, chosen models)
+      description: Graphics card, processor, memory and chosen models — see HotKey → Settings → About → Your computer
   - type: textarea
     id: extra
     attributes:
