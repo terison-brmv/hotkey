@@ -1,0 +1,37 @@
+name: Something is broken
+description: HotKey fixed a word wrongly, missed a fix, crashed or looks off
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make HotKey better. Please write in English or Russian — можно по-русски.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Where were you typing (app), what did you type or press, what did you expect, what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: HotKey version
+      description: Settings → About
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2 (26100)"
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Your PC
+      description: Filled in automatically when you send the report from HotKey (graphics card, processor, memory, chosen models)
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or anything else

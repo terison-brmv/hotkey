@@ -1,0 +1,16 @@
+name: Idea or suggestion
+description: Something HotKey could do better or a feature you'd like
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the situation where you needed it. Please write in English or Russian — можно по-русски.
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: HotKey version
+      description: Settings → About
