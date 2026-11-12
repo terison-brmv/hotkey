@@ -11,7 +11,7 @@ Typed `ghbdtn` instead of `привет`? HotKey quietly fixes it the moment you
 ![UI](https://img.shields.io/badge/UI-RU_·_EN-2B2F36?style=flat-square)
 
 > ### [⬇&nbsp;&nbsp;Download HotKey for Windows](https://github.com/terison-brmv/hotkey/releases/latest/download/HotKey-Setup.exe)
-> Free · Windows 11, 64-bit (Windows 10 not tested yet) · [all versions](../../releases) · [Complaints and suggestions](../../issues/new/choose) · [Читать по-русски](README.ru.md)
+> Free · Windows 11, 64-bit (Windows 10 not tested yet) · [all versions](../../releases) · [what's new](CHANGELOG.md) · [Complaints and suggestions](../../issues/new/choose) · [Читать по-русски](README.ru.md)
 
 <br>
 

@@ -5,7 +5,7 @@
 Набрал `ghbdtn` вместо `привет`? HotKey тихо исправит слово, как только нажмёшь пробел, и сам переключит язык. А ещё он печатает голосом, исправляет грамотность и переводит выделенный текст. Всё работает **на твоём компьютере** и **не трогает буфер обмена**.
 
 > ### [⬇&nbsp;&nbsp;Скачать HotKey для Windows](https://github.com/terison-brmv/hotkey/releases/latest/download/HotKey-Setup.exe)
-> Бесплатно · Windows 11, 64 бит (на Windows 10 пока не проверяли) · [все версии](../../releases) · [Жалобы и предложения](../../issues/new/choose) · [English](README.md)
+> Бесплатно · Windows 11, 64 бит (на Windows 10 пока не проверяли) · [все версии](../../releases) · [что нового](CHANGELOG.md) · [Жалобы и предложения](../../issues/new/choose) · [English](README.md)
 
 <br>
 
